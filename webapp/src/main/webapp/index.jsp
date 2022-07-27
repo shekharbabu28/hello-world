@@ -10,7 +10,7 @@
 	<body>
 		<div>
 			<h1>Hello world!</h1>
-			<p>This is a example website.</p>
+			<p>This is a examplee website.</p>
             <!-- Hi! -->
 			<p>
 				<a href="https://tiagorangel.com/">Learn More</a>
