@@ -1,28 +1,65 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
+<!DOCTYPE html>
+<html>
+  <body>
+  	Hello World!
+  </body>
+</html>
 
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
 
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
+  </body>
+</html>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
-    <br>
+<!doctype html>
+<html>
+	<head>
+		<title>Example website</title>
+		<meta charset="utf-8"/>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <style type="text/css">* {font-family: Inter;} body {padding: 2em;}</style>
+	</head>
+	<body>
+		<div>
+			<h1>Hello world!</h1>
+			<p>This is a example website.</p>
+            <!-- Hi! -->
+			<p>
+				<a href="https://tiagorangel.com/">Learn More</a>
+			</p>
+		</div>
+	</body>
+</html>
 
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background="purple";}
+</style>
+<title>Page Title<title>
+</head>
+<body>
+<h1>Yay</h1>
+<p>yay is a word used to describe that your happy!</p>
+</body>
+</html>
 
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-</form>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 
+</body>
+</html>
