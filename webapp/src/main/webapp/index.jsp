@@ -1,23 +1,19 @@
-<html>
-  <head>
-    <title>Div Align Attribbute</title>
-  </head>
-  <body>
-    <div align="left">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-    <div align="right">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-    <div align="center">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-    <div align="justify">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-  </body>
-</html>
+<form>
+  <label for="username">Username:</label>
+  <input type="text" name="username" id="username" />
+  <label for="password">Password:</label>
+  <input type="password" name="password" id="password" />
+  <input type="radio" name="gender" value="male" />Male<br />
+  <input type="radio" name="gender" value="female" />Female<br />
+  <input type="radio" name="gender" value="other" />Other
+  <input list="Options" />
+  <datalist id="Options">
+    <option value="Option1"></option>
+    <option value="Option2"></option>
+    <option value="Option3"></option>
+  </datalist>
+
+  <input type="submit" value="Submit" />
+  <input type="color" />
+  <input type="checkbox" name="correct" value="correct" />Correct
+</form>
