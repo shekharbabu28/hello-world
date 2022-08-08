@@ -1,19 +1,50 @@
-<form>
-  <label for="username">UserName:</label>
-  <input type="text" name="UserName" id="UserName" />
-  <label for="Enter password">Enter Password:</label>
-  <input type="Password" name="Password" id="Password" />
-  <input type="radio" name="gender" value="male" />Male<br />
-  <input type="radio" name="gender" value="female" />Female<br />
-  <input type="radio" name="gender" value="other" />Other
-  <input list="Options" />
-  <datalist id="Options">
-    <option value="Option1"></option>
-    <option value="Option2"></option>
-    <option value="Option3"></option>
-  </datalist>
-
-  <input type="submit" value="Submit" />
-  <input type="color" />
-  <input type="checkbox" name="correct" value="correct" />Correct
-</form>
+<html>
+ 
+<head>
+    <title>GeeksforGeeks</title>
+</head>
+ 
+<body>
+    <h1>Hello GeeksforGeeks</h1>
+     
+ 
+ 
+<p>
+        A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+    </p>
+ 
+ 
+ 
+ 
+    <hr>
+     
+ 
+ 
+<p>
+        A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+    </p>
+ 
+ 
+ 
+ 
+    <hr>
+     
+ 
+ 
+<p>
+        A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+        A Computer Science portal for geeks<br>
+    </p>
+ 
+ 
+ 
+ 
+    <hr>
+</body>
+ 
+</html>
