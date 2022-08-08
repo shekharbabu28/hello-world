@@ -1,50 +1,9 @@
+<!DOCTYPE html>
 <html>
- 
-<head>
-    <title>GeeksForGeeks</title>
-</head>
- 
 <body>
-    <h1>Hello GeeksforGeeks</h1>
-     
- 
- 
-<p>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-    </p>
- 
- 
- 
- 
-    <hr>
-     
- 
- 
-<p>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-    </p>
- 
- 
- 
- 
-    <hr>
-     
- 
- 
-<p>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-        A Computer Science portal for geeks<br>
-    </p>
- 
- 
- 
- 
-    <hr>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
 </body>
- 
 </html>
