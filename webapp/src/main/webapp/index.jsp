@@ -1,7 +1,7 @@
 <form>
   <label for="username">UserName:</label>
   <input type="text" name="UserName" id="UserName" />
-  <label for="password">Password:</label>
+  <label for="Enter password">Enter Password:</label>
   <input type="Password" name="Password" id="Password" />
   <input type="radio" name="gender" value="male" />Male<br />
   <input type="radio" name="gender" value="female" />Female<br />
