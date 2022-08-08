@@ -1,7 +1,7 @@
 <html>
  
 <head>
-    <title>GeeksforGeeks</title>
+    <title>GeeksForGeeks</title>
 </head>
  
 <body>
