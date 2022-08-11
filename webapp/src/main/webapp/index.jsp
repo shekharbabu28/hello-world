@@ -1,9 +1,11 @@
-<!DOCTYPE html>
 <html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
+  <head>
+    <title>Href Attribute Example</title>
+  </head>
+  <body>
+    <h1>Href Attribute Example</h1>
+    <p>
+      <a href="https://www.freecodecamp.org/contribute/">The freeCodeCamp Contribution Page</a> shows you how and where you can contribute to freeCodeCamp's community and growth.
+    </p>
+  </body>
 </html>
